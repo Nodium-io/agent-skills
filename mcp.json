@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nodium": {
+      "url": "https://nodium.io/api/v1/mcp",
+      "headers": { "Authorization": "Bearer ${NODIUM_KEY}" }
+    }
+  }
+}
